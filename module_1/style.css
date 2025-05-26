@@ -1,0 +1,86 @@
+h1 {
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    border: 0px;
+    padding: 0px;
+}
+
+ul a {
+    text-decoration: none;
+    display: flex;
+    color: black;
+}
+
+ul {
+    margin-left: 55%;
+    padding-top: 10px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+li {
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+nav {
+    background-color: beige;
+    display: flex;
+}
+
+.registrations {
+    height: 350px;
+    width: 500px;
+    background-color: beige;
+    border-radius: 5px;
+    padding-top: 5px;
+    align-items: center;
+}
+
+.registrations td {
+    padding-top: 15px;
+}
+
+video {
+    padding: 30px;
+}
+
+hr {
+    margin-bottom: 25px;
+    margin-top: 25px;
+    display: block;
+    border: 1px solid #000;
+}
+
+.button {
+    padding: 8px;
+    border: #000;
+    border-width: 1px;
+    border-radius: 1px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.loco {
+    padding-top: 12px;
+    margin-left: 320px;
+    padding-bottom: 12px;
+    text-align: center;
+    width: 800px;
+    background-color: beige;
+    color: #000;
+    border-radius: 5px;
+}
+
+.loco .button {
+    margin-top: 20px;
+}
+
+#contact {
+    text-align: center;
+}
